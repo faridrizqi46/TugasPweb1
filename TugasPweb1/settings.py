@@ -27,7 +27,7 @@ SECRET_KEY = '2lyry&vdi7c(yg!%i4m!6ulhvwi^=o)7m_%(bv-=^mnvycz(%+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1','tugaspwebtodoapp.herokuapp.com']
 
 
 # Application definition
