@@ -1,0 +1,1 @@
+web: gunicorn TugasPweb1.wsgi --log-file -
